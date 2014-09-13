@@ -1,10 +1,10 @@
 title: Aktuelles
 
 description: |
-This is the description of the blog. It can contain HTML, such as
-<ul style="text-align: left">
-<li>Lists
-<li>Images
-<li>Anything else
-</ul>
+    This is the description of the blog. It can contain HTML, such as:
+    <ul style="text-align: left">
+    <li>Lists
+    <li>Images
+    <li>Anything else
+    </ul>
 
