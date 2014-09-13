@@ -1,4 +1,6 @@
+---
 title: Erster Eintrag im neuen Blog
+---
 
 Das ist nur ein kleiner Test
 ----------------------------
