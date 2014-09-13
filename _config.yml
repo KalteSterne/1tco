@@ -8,8 +8,7 @@ description: |
     <li>Anything else
     </ul>
 
-header: |
-    dummdidumm
-
 footer: |
     <hr>test<hr>
+
+theme: models.TcoTheme$
