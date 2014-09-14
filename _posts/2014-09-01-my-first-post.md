@@ -12,8 +12,7 @@ Das ist nur ein kleiner Test
 1. nur
 2. mal
 3. so
-
-![Alternativer Text](/public/images/jo.jpg)
+![Alternativer Text](/assets/images/jo.jpg)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
