@@ -1,4 +1,4 @@
-Ôªø---
+---
 title: Erster Eintrag im neuen Blog
 ---
 
@@ -14,7 +14,7 @@ Das ist nur ein kleiner Test
 3. so
 ![Alternativer Text](/assets/images/jo.jpg)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. √únd d√§ √üonderzeichen?
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ‹nd d‰ ﬂonderzeichen?
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
