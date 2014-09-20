@@ -1,5 +1,5 @@
 ---
-title: WeiÃŸwurst-FrÃ¼hschoppen beim 1.TCO
+title: Weißwurst-Frühschoppen beim 1.TCO
 date: 2011-07-07
 ---
 
