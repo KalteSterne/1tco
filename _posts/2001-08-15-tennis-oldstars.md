@@ -3,12 +3,11 @@ title: Die Tennis-Oldstars schlagen auf
 date: 2011-08-15
 ---
 
-Da die ATP-Seniorentour  mit Spielern wie John McEnroe und Ivan Lendl auch
-in diesem Jahr leider wieder einen Bogen um Otterberg macht, findet unter
+<p>Da die ATP-Seniorentour  mit Spielern wie John McEnroe und Ivan Lendl auch in diesem Jahr leider wieder einen Bogen um Otterberg macht, findet unter
 dem Motto 1. TCO trifft OTC eine dennoch  interessante Tennisbegegnung
-statt.
+statt.<p>
 
-Die beiden Otterberger Tennisvereine, der 1. Tennisclub Otterberg e.V. am
+<p>Die beiden Otterberger Tennisvereine, der 1. Tennisclub Otterberg e.V. am
 Schwimmbad sowie der Otterberger Tennisclub im M&uuml;hlwoog e.V. haben nach
 Beendigung der Medenspiele die Durchf&uuml;hrung eines Freundschaftsspiels der
 &quot;alten Herren&quot; vereinbart. In geselliger Runde wurde das erste Hinspiel f&uuml;r
@@ -22,4 +21,4 @@ freuen. Damit m&ouml;chten die Klubs eine alte Tradition wieder aufleben lassen,
 in der Hoffnung dass man perspektivisch auch mal wieder eine
 Tennis-Stadtmeisterschaft in Otterberg durchf&uuml;hren kann, &Auml;ltere erinnern
 sich noch an die spannenden Spiele auf den Anlagen beider Vereine in den
-Boom-Zeiten  des Tennis von Boris Becker und Steffi Graf..
+Boom-Zeiten  des Tennis von Boris Becker und Steffi Graf..</p>
