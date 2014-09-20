@@ -1,0 +1,8 @@
+---
+title: Weißwurst-Frühschoppen beim 1.TCO
+date: 2011-07-07
+---
+
+<p>
+	Der 1. Tennisclub Otterberg veranstaltete am Sonntag, den 3.7.2011, wieder seinen mitllerweile bereits traditionellen Wei&szlig;wurst-Fr&uuml;hschoppen. Bei herrlichem K&ouml;nig Ludwig Wetter, nur stellenweise getr&uuml;bt durch einen teilweise frischen Wind, war das Festzelt und die Terasse bereits fr&uuml;hmorgens bestens gef&uuml;llt. Zahlreiche Besucher, Mitglieder und G&auml;ste genossen auf unserer herrlichen Clubanlage das umfangreiche Angebot an Bayrischen Schmankerl, lecker Wei&szlig;w&uuml;rsten und nat&uuml;rlich die schmackhaften Durstl&ouml;scher. Bestens unterst&uuml;tzt durch den Musikverein Otterberg, konnten wir ein einen sch&ouml;nen Tag miteinander verbringen. Der 1.TCO bedankt sich bei allen Besuchern, die den Tag wieder zu wieder einem unvergesslichen Erlebnis gemacht haben. Ein gro&szlig;er Dank auch an den Musikverein Otterberg, der mit seiner gro&szlig;artigen musikalischen Unterst&uuml;tzung hier wesentlich zum gelingen beigetragen hat. Ebenso ein dickes Lob an alle flei&szlig;ige Helfer und Sponsoren, wie z.B den Zeltverleih Haag, der wieder das Festzelt kostenlos zur Verf&uuml;gung gestellt hat und alle die uns so hervorragend unterst&uuml;tzt haben. Eine super Truppe hat hier wieder gezeigt, das beim 1.TCO nicht nur auf hohem Niveau Tennis gespielt wird, sondern auch mal toll gefeiert werden kann. Wir freuen uns bereits auf n&auml;chstes Jahr und hoffen euch dann wieder bei uns begr&uuml;&szlig;en zu d&uuml;rfen!<br />
+	&nbsp;</p>
