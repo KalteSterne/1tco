@@ -12,6 +12,7 @@ Das ist nur ein kleiner Test
 1. nur
 2. mal
 3. so
+
 <a href="/assets/images/jo.jpg">![Alternativer Text](/assets/images/jo.jpg)</a>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Ünd dä ßonderzeichen?
